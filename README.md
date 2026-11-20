@@ -172,7 +172,7 @@ flowchart TD
 ## Author
 
 **Ibrahim Meselhy**
-[GitHub](https://github.com/imeselhy) · [LinkedIn](https://www.linkedin.com/in/your-profile)
+[GitHub](https://github.com/imeselhy)
 
 ---
 
